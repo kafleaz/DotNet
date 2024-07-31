@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|d:\\cab\\6th_sem_lab\\dependency_inj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|d:\\cab\\6th_sem_lab\\dependency_inj\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|d:\\cab\\6th_sem_lab\\dependency_inj\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|solutionrelative:views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|d:\\cab\\6th_sem_lab\\dependency_inj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|d:\\cab\\6th_sem_lab\\dependency_inj\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|solutionrelative:services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|d:\\cab\\6th_sem_lab\\dependency_inj\\services\\weatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|solutionrelative:services\\weatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|d:\\cab\\6th_sem_lab\\dependency_inj\\dependency_inj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C86DE03-7C34-4C06-A1AE-33289DFFE1F3}|Dependency_inj.csproj|solutionrelative:dependency_inj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:32:39.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Weather\\Index.cshtml",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "Views\\Weather\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:30:58.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:42:12.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T08:42:05.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IweatherService.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Services\\IweatherService.cs",
+              "RelativeDocumentMoniker": "Services\\IweatherService.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Services\\IweatherService.cs",
+              "RelativeToolTip": "Services\\IweatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:40:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherServices.cs",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Services\\WeatherServices.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherServices.cs",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Services\\WeatherServices.cs",
+              "RelativeToolTip": "Services\\WeatherServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:36:52.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dependency_inj",
+              "DocumentMoniker": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Dependency_inj.csproj",
+              "RelativeDocumentMoniker": "Dependency_inj.csproj",
+              "ToolTip": "D:\\CAB\\6th_Sem_Lab\\Dependency_inj\\Dependency_inj.csproj",
+              "RelativeToolTip": "Dependency_inj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T08:36:10.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

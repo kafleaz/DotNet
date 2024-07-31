@@ -1,0 +1,22 @@
+﻿@model List<UsingDbContext.Models.Category> 
+<h2>Categories</h2> 
+<table class="table"> 
+    <thead> 
+        <tr> 
+            <th>ID</th> 
+            <th>Name</th> 
+            <th>Description</th> 
+        </tr> 
+    </thead> 
+    <tbody> 
+        @foreach (var category in Model)
+        { 
+                <tr> 
+                    <td>@category.Id</td> 
+                    <td>@category.Name</td> 
+                    <td>@category.Description</td> 
+                </tr> 
+        } 
+    </tbody> 
+</table> 
+
